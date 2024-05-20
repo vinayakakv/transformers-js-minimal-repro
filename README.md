@@ -1,5 +1,3 @@
-# transformers-mrepro
-
 Minimal reproduction of the following error starting from [@xenova/transformers#2c2c0871df4b899f7874d9e2ffc5fc61c7273e9b](https://github.com/xenova/transformers.js/commit/2c2c0871df4b899f7874d9e2ffc5fc61c7273e9b)
 
 ```
