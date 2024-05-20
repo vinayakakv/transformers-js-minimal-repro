@@ -1,0 +1,17 @@
+{
+  "name": "transformers-mrepro",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@xenova/transformers": "xenova/transformers.js#2c2c0871df4b899f7874d9e2ffc5fc61c7273e9b"
+  },
+  "trustedDependencies": [
+    "protobufjs"
+  ]
+}
